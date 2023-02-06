@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriyagautam12&label=Profile%20views&color=0e75b6&style=flat" alt="shriyagautam12" /> </p>
 
-- 👋💜 Hi, I’m Shriya Gautam ! **Front-End Developer || Content creator🎨**
+- 👋💜 Hi, I’m Shriya Gautam ! **Full-Stack Developer || Content creator🎨**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 Comeptitive programming in C++
 
 - 👀 I’m interested in Tech, music, videogames and Writing! **Always ready to learn more!**
 
